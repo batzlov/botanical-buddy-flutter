@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:gartenjeden/screens/authenticated/detail_tabs/general.dart';
-import 'package:gartenjeden/screens/authenticated/detail_tabs/diary.dart';
-import 'package:gartenjeden/screens/authenticated/detail_tabs/plant_type_info.dart';
+import 'package:botanicalbuddy/screens/authenticated/detail_tabs/general.dart';
+import 'package:botanicalbuddy/screens/authenticated/detail_tabs/diary.dart';
+import 'package:botanicalbuddy/screens/authenticated/detail_tabs/plant_type_info.dart';
 
 import '../../models/plant.dart';
 

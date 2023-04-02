@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gartenjeden/components/icon_button_row.dart';
-import 'package:gartenjeden/shared/styles.dart';
+import 'package:botanicalbuddy/components/icon_button_row.dart';
+import 'package:botanicalbuddy/shared/styles.dart';
 
 import '../../../models/plant.dart';
 import '../../../services/api_service.dart';

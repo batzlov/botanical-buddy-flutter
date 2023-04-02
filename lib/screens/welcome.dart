@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:gartenjeden/components/button.dart';
-import 'package:gartenjeden/components/cover_image.dart';
-import 'package:gartenjeden/components/intro_headline.dart';
+import 'package:botanicalbuddy/components/button.dart';
+import 'package:botanicalbuddy/components/cover_image.dart';
+import 'package:botanicalbuddy/components/intro_headline.dart';
 
-import 'package:gartenjeden/screens/signin.dart';
-import 'package:gartenjeden/screens/signup.dart';
+import 'package:botanicalbuddy/screens/signin.dart';
+import 'package:botanicalbuddy/screens/signup.dart';
 
 class Welcome extends StatelessWidget {
   const Welcome({ Key? key }) : super(key: key);
@@ -21,7 +21,7 @@ class Welcome extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
               const IntroHeadline(
-                headline: "Garten Jeden", 
+                headline: "Botanical Buddy", 
                 subHeadline: "Dein Zuhause jetzt grüner"
               ),
               const SizedBox(

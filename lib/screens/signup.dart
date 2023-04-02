@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 
-import 'package:gartenjeden/screens/authenticated/home.dart';
+import 'package:botanicalbuddy/screens/authenticated/home.dart';
 
-import 'package:gartenjeden/components/button.dart';
-import 'package:gartenjeden/components/cover_image.dart';
-import 'package:gartenjeden/components/intro_headline.dart';
+import 'package:botanicalbuddy/components/button.dart';
+import 'package:botanicalbuddy/components/cover_image.dart';
+import 'package:botanicalbuddy/components/intro_headline.dart';
 
-import 'package:gartenjeden/shared/utils.dart';
-import 'package:gartenjeden/shared/styles.dart';
+import 'package:botanicalbuddy/shared/utils.dart';
+import 'package:botanicalbuddy/shared/styles.dart';
 
-import 'package:gartenjeden/services/auth_service.dart';
+import 'package:botanicalbuddy/services/auth_service.dart';
 
 class SignUp extends StatefulWidget {
   const SignUp({ Key? key }) : super(key: key);

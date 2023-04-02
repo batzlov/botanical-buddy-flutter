@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:gartenjeden/components/button.dart';
-import 'package:gartenjeden/shared/styles.dart';
+import 'package:botanicalbuddy/components/button.dart';
+import 'package:botanicalbuddy/shared/styles.dart';
 
 import '../../../models/plant.dart';
 import '../../../models/diary_entry.dart';

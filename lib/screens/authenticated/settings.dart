@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:gartenjeden/components/label_checkox.dart';
-import 'package:gartenjeden/components/icon_button_row.dart';
+import 'package:botanicalbuddy/components/label_checkox.dart';
+import 'package:botanicalbuddy/components/icon_button_row.dart';
 
-import 'package:gartenjeden/models/settings.dart';
-import 'package:gartenjeden/services/api_service.dart';
-import 'package:gartenjeden/services/auth_service.dart';
-import 'package:gartenjeden/shared/utils.dart';
+import 'package:botanicalbuddy/models/settings.dart';
+import 'package:botanicalbuddy/services/api_service.dart';
+import 'package:botanicalbuddy/services/auth_service.dart';
+import 'package:botanicalbuddy/shared/utils.dart';
 
 import '../welcome.dart';
 

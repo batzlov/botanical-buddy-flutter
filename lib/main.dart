@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-import 'package:gartenjeden/screens/app.dart';
+import 'package:botanicalbuddy/screens/app.dart';
 
 void main() {
-  runApp(const GartenJeden());
+  runApp(const BotanicalBuddy());
 }
 
-class GartenJeden extends StatelessWidget {
-  const GartenJeden({ Key? key }) : super(key: key);
+class BotanicalBuddy extends StatelessWidget {
+  const BotanicalBuddy({ Key? key }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

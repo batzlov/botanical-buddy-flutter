@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gartenjeden/screens/authenticated/create_plant.dart';
+import 'package:botanicalbuddy/screens/authenticated/create_plant.dart';
 
 import '../../models/user.dart';
 import '../../services/auth_service.dart';

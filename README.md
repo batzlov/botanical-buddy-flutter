@@ -1,5 +1,5 @@
-# Garten Jeden
-Garten Jeden, ein Projekt von Robert Ackermann. Entwickelt mit Flutter. Made with ♥ and ☕ in Erfurt.
+# Botanical Buddy
+Botanical Buddy, ein Projekt von Robert Ackermann. Entwickelt mit Flutter. Made with ♥ and ☕ in Erfurt.
 
 ## Voraussetzungen
 Folgende Anwendungen müssen auf dem System installiert sein: Flutter.
@@ -7,11 +7,11 @@ Folgende Anwendungen müssen auf dem System installiert sein: Flutter.
 ## Installation
 Repository klonen:
 
-    git clone https://source.ai.fh-erfurt.de/ro1376ac/garten-jeden-flutter.git
+    git clone https://source.ai.fh-erfurt.de/ro1376ac/botanical-buddy-flutter.git
 
 Ins Verzeichnis wechseln:
 
-    cd garten-jeden-flutter
+    cd botanical-buddy-flutter
 
 ## Projekt starten
 Paketabhängigkeiten installieren:

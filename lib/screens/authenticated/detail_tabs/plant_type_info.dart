@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gartenjeden/shared/styles.dart';
+import 'package:botanicalbuddy/shared/styles.dart';
 
 import '../../../models/plant.dart';
 

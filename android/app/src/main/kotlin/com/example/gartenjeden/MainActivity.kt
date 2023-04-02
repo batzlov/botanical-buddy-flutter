@@ -1,4 +1,4 @@
-package com.example.gartenjeden
+package com.example.botanicalbuddy
 
 import io.flutter.embedding.android.FlutterActivity
 

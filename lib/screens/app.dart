@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 
-import 'package:gartenjeden/screens/welcome.dart';
-import 'package:gartenjeden/screens/authenticated/tab_navigation.dart';
-import 'package:gartenjeden/services/auth_service.dart';
+import 'package:botanicalbuddy/screens/welcome.dart';
+import 'package:botanicalbuddy/screens/authenticated/tab_navigation.dart';
+import 'package:botanicalbuddy/services/auth_service.dart';
 
 import '../models/user.dart';
 

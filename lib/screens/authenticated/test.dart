@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:gartenjeden/components/button.dart';
+import 'package:botanicalbuddy/components/button.dart';
 
-import 'package:gartenjeden/services/api_service.dart';
+import 'package:botanicalbuddy/services/api_service.dart';
 
 class Test extends StatefulWidget {
   const Test({ Key? key }) : super(key: key);

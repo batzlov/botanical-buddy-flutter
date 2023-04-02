@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-import 'package:gartenjeden/components/calendar.dart';
-import 'package:gartenjeden/models/user.dart';
+import 'package:botanicalbuddy/components/calendar.dart';
+import 'package:botanicalbuddy/models/user.dart';
 
-import 'package:gartenjeden/services/api_service.dart';
+import 'package:botanicalbuddy/services/api_service.dart';
 
-import 'package:gartenjeden/models/event.dart';
-import 'package:gartenjeden/services/auth_service.dart';
+import 'package:botanicalbuddy/models/event.dart';
+import 'package:botanicalbuddy/services/auth_service.dart';
 
 class Home extends StatefulWidget {
   const Home({ Key? key }) : super(key: key);

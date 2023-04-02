@@ -1,4 +1,4 @@
-import 'package:gartenjeden/models/plant_type.dart';
+import 'package:botanicalbuddy/models/plant_type.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 

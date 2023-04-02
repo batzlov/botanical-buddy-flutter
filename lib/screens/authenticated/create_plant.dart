@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
-import 'package:gartenjeden/screens/authenticated/camera_handler.dart';
-import 'package:gartenjeden/screens/authenticated/fake_camera.dart';
-import 'package:gartenjeden/services/api_service.dart';
-import 'package:gartenjeden/shared/styles.dart';
+import 'package:botanicalbuddy/screens/authenticated/camera_handler.dart';
+import 'package:botanicalbuddy/screens/authenticated/fake_camera.dart';
+import 'package:botanicalbuddy/services/api_service.dart';
+import 'package:botanicalbuddy/shared/styles.dart';
 import 'dart:convert';
 
 import '../../components/button.dart';
